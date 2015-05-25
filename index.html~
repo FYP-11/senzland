@@ -69,9 +69,11 @@
                             </li>
                             <li><a href="#reviews">reviews</a>
                             </li>
+                            <li><a href="#screens">screens</a>
+                            </li>
                             <li><a href="#demo">demo</a>
                             </li>
-                            <li><a class="getApp" href="http://ideamarthosting.dialog.lk:9134/track/login">get app</a>
+                            <li><a class="getApp" href="#getApp">get app</a>
                             </li>
                             <li><a href="#support">Sign Up</a>
                             </li>
@@ -129,7 +131,7 @@
                             <a href="#about" class="btn btn-primary inverse btn-lg">LEARN MORE</a>
                         </div>
                         <div class="tp-caption sfr hidden-xs" data-x="730" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1500" data-start="1900" data-easing="Power4.easeOut">
-                            <a href="http://ideamarthosting.dialog.lk:9134/track/login" class="btn btn-default btn-lg">GET APP</a>
+                            <a href="#getApp" class="btn btn-default btn-lg">GET APP</a>
                         </div>
 
                     </li>
@@ -196,13 +198,13 @@
 
                         
                         <div class="tp-caption mediumlarge_light_white sfl hidden-xs" data-x="left" data-y="center" data-hoffset="0" data-voffset="-50" data-speed="1000" data-start="1000" data-easing="Power4.easeOut">
-                           Powerful IoT
+                           Powerful Responsive
                         </div>
                         <div class="tp-caption mediumlarge_light_white sft hidden-xs" data-x="left" data-y="center" data-hoffset="0" data-voffset="0" data-speed="1000" data-start="1200" data-easing="Power4.easeOut">
-                           Platform
+                           App Landing Page
                         </div>
                         <div class="tp-caption small_light_white sfb hidden-xs" data-x="left" data-y="center" data-hoffset="0" data-voffset="80" data-speed="1000" data-start="1600" data-easing="Power4.easeOut">
-                           <p>SenzMate is a Remote sensing Platform<br>It permit to develop Your Applications</p>
+                           <p>Nulla pretium libero interdum, tempus lorem non, rutrum diam. <br> Quisque pellentesque diam sed pulvinar lobortis. Vestibulum ante <br>ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</p>
                         </div>
 
                         <div class="tp-caption lfl hidden-xs" data-x="left" data-y="center" data-hoffset="0" data-voffset="160" data-speed="1000" data-start="1800" data-easing="Power4.easeOut">
@@ -230,7 +232,7 @@
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>About Us</h1>
                     <div class="divider"></div>
-                    <p>SenzMate IoT Platform</p>
+                    <p>Tacklers Common Platform</p>
                 </div>
 
                 <div class="row">
@@ -238,28 +240,28 @@
                         <div class="about-item scrollpoint sp-effect2">
                             <i class="fa fa-download fa-2x"></i>
                             <h3>Easy setup</h3>
-                            <p>Just connect Sensors and Actuators - Then configure using web</p>
+                            <p>Just connect Sensors and Actuators - then configure using web</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-3 col-xs-6" >
                         <div class="about-item scrollpoint sp-effect5">
                             <i class="fa fa-mobile fa-2x"></i>
                             <h3>Control Method</h3>
-                            <p>Using SMS, WebApplication,Android Application</p>
+                            <p>Using SMS you can monitor the Kit and also can configure it </p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-3 col-xs-6" >
                         <div class="about-item scrollpoint sp-effect5">
                             <i class="fa fa-users fa-2x"></i>
                             <h3>Social connect</h3>
-                            <p>Login to Facebook and like us 'SenzMate' to get more ideas</p>
+                            <p>Login to Facebook and like us to get more ideas</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-3 col-xs-6" >
                         <div class="about-item scrollpoint sp-effect1">
                             <i class="fa fa-sliders fa-2x"></i>
                             <h3>Dedicated support</h3>
-                            <p>We help you with your projects - We build it for your Specifications</p>
+                            <p>We help you with your projects- with sensor selections and so on</p>
                         </div>
                     </div>
                 </div>
@@ -322,7 +324,7 @@
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-4" >
-                        <img src="img/freeze/gsm-module.png" style="width: 250px" class="img-responsive scrollpoint sp-effect5" alt="">
+                        <img src="img/freeze/iphone-freeze.png" class="img-responsive scrollpoint sp-effect5" alt="">
                     </div>
                     <div class="col-md-4 col-sm-4 scrollpoint sp-effect2">
                         <div class="media feature">
@@ -394,7 +396,7 @@
                                     </div>
                                     <div class="col-md-10">
                                         <div class="review-comment">
-                                            <h3>“I love SenzMate', I highly recommend it, Everyone Try to adapt to Your Projects”</h3>
+                                            <h3>“I love Tacklers', I highly recommend it, Everyone Try to adapt to Your Projects”</h3>
                                             <p>
                                                 - S.Pooja
                                                 <span>
@@ -418,7 +420,7 @@
                                     </div>
                                     <div class="col-md-10">
                                         <div class="review-comment">
-                                            <h3>“SenzMate' Is The Best Stable, Innovative Platform I Have Ever Experienced”</h3>
+                                            <h3>“Tacklers' Is The Best Stable, Innovative Platform I Have Ever Experienced”</h3>
                                             <p>
                                                 - Arun Balasundaram
                                                 <span>
@@ -475,7 +477,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 scrollpoint sp-effect2">
                         <div class="video-container" >
-                            <iframe src="http://player.vimeo.com/video/128769526"></iframe>
+                            <iframe src="https://www.youtube.com/watch?feature=player_detailpage&v=VmZU6K_Oar4"></iframe>
                         </div>
                     </div>
                 </div>
