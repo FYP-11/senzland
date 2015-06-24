@@ -11,7 +11,7 @@
     <title>SenzMate.com</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <link rel="shortcut icon" href="favicon.jpg">
+    <link rel="shortcut icon" href="favicon.png">
 
     <link rel="stylesheet" href="css/bootstrap.css">
     
@@ -63,17 +63,19 @@
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
                         <ul class="nav navbar-nav navbar-right">
+                            <li><a href="#">home</a>
+                            </li>
                             <li><a href="#about">about</a>
                             </li>
-                            <li><a href="#features">features</a>
+                            <li><a href="#features">Platform</a>
                             </li>
-                            <li><a href="#reviews">reviews</a>
-                            </li>
-                            <li><a href="#demo">demo</a>
+                            <!--<li><a href="#reviews">Customers</a>
+                            </li>-->
+                            <li><a href="#product">Products</a>
                             </li>
                             <li><a class="getApp" href="http://ideamarthosting.dialog.lk:9134/track/login">get app</a>
                             </li>
-                            <li><a href="#support">Sign Up</a>
+                            <li><a href="#support">Contact Us</a>
                             </li>
                         </ul>
                     </div>
@@ -227,13 +229,25 @@
         <section id="about">
             <div class="container">
                 
-                <div class="section-heading scrollpoint sp-effect3">
-                    <h1>About Us</h1>
+                <div class="section-heading scrollpoint sp-effect3 " style="margin: 60px 0px 0px;">
+                    <h1>Our Structure</h1>
                     <div class="divider"></div>
-                    <p>SenzMate IoT Platform</p>
+                    <!--<p>SenzMate IoT Platform</p>-->
                 </div>
 
                 <div class="row">
+                    <div class="col-sm-3">
+                        <p> </p>
+                    </div>
+                    <div class="col-sm-9">
+                        <img src="img/a.png" class="img-responsive scrollpoint sp-effect5 thumbnail">
+                    </div>
+                </div>
+                <!--<div class="row">
+                    <p>This is a Iot Platform can be use in Any kind of Applications. TO do write something</p>
+
+                </div>-->
+                <!--<div class="row">
                     <div class="col-md-3 col-sm-3 col-xs-6">
                         <div class="about-item scrollpoint sp-effect2">
                             <i class="fa fa-download fa-2x"></i>
@@ -262,62 +276,62 @@
                             <p>We help you with your projects - We build it for your Specifications</p>
                         </div>
                     </div>
-                </div>
+                </div>-->
             </div>
         </section>
 
         <section id="features">
             <div class="container">
-                <div class="section-heading scrollpoint sp-effect3">
-                    <h1>Features</h1>
+                <div class="section-heading scrollpoint sp-effect3" style="margin: 60px 0px 0px;">
+                    <h1>What Can we do...</h1>
                     <div class="divider"></div>
-                    <p>Learn more about our Platform</p>
+                    <!--<p>Learn more about our Platform</p>-->
                 </div>
                 <div class="row">
                     <div class="col-md-4 col-sm-4 scrollpoint sp-effect1">
                         <div class="media media-left feature">
-                            <a class="pull-right" href="#">
-                                <i class="fa fa-cogs fa-2x"></i>
+                            <a class="pull-right" href="#support">
+                                <i class="fa fa-truck fa-2x"></i>
                             </a>
                             <div class="media-body">
-                                <h3 class="media-heading">User Settings</h3>
-                                Login to configure your Gadget
+                                <h3 class="media-heading">Temperature Monitoring</h3>
+                                Storage / Trucks (Onion, Fish, Medicines)
                             </div>
                         </div>
                         <div class="media media-left feature">
-                            <a class="pull-right" href="#">
-                                <i class="fa fa-envelope fa-2x"></i>
+                            <a class="pull-right" href="#support">
+                                <i class="fa fa-pagelines fa-2x"></i>
                             </a>
                             <div class="media-body">
-                                <h3 class="media-heading">Messages Inbox</h3>
-                                Let us know about your opinions
+                                <h3 class="media-heading">Digital Irrigation</h3>
+                                Greenhouse, Farms, Golf club, vineyards
                             </div>
                         </div>
                         <div class="media media-left feature">
-                            <a class="pull-right" href="#">
-                                <i class="fa fa-users fa-2x"></i>
+                            <a class="pull-right" href="#support">
+                                <i class="fa fa-exclamation-triangle fa-2x"></i>
                             </a>
                             <div class="media-body">
-                                <h3 class="media-heading">Our Partners</h3>
-                                Our partners are Our Strength 
+                                <h3 class="media-heading">Thief Alerting</h3>
+                                House, Shops, Offices
                             </div>
                         </div>
                         <div class="media media-left feature">
-                            <a class="pull-right" href="#">
-                                <i class="fa fa-comments fa-2x"></i>
+                            <a class="pull-right" href="#support">
+                                <i class="fa fa-arrows-v fa-2x"></i>
                             </a>
                             <div class="media-body">
-                                <h3 class="media-heading">&nbsp;</h3>
-                                We give you solutions through online chat
+                                <h3 class="media-heading">Water Level Monitor</h3>
+                                Tanks, Reservoirs
                             </div>
                         </div>
                         <div class="media media-left feature">
-                            <a class="pull-right" href="#">
-                                <i class="fa fa-calendar fa-2x"></i>
+                            <a class="pull-right" href="#support">
+                                <i class="fa fa-tachometer fa-2x"></i>
                             </a>
                             <div class="media-body">
-                                <h3 class="media-heading">Calendar / Planner</h3>
-                                Look for our forums and workshops
+                                <h3 class="media-heading">Gas Monitoring</h3>
+                                Level and Leakage
                             </div>
                         </div>
                     </div>
@@ -326,48 +340,48 @@
                     </div>
                     <div class="col-md-4 col-sm-4 scrollpoint sp-effect2">
                         <div class="media feature">
-                            <a class="pull-left" href="#">
+                            <a class="pull-left" href="#support">
                                 <i class="fa fa-map-marker fa-2x"></i>
                             </a>
                             <div class="media-body">
-                                <h3 class="media-heading">Places</h3>
-                                Look for places where you can purchase.
+                                <h3 class="media-heading">Available Parking</h3>
+                                Shopping Complexes, City Parking
                             </div>
                         </div>
                         <div class="media feature">
-                            <a class="pull-left" href="#">
-                                <i class="fa fa-film fa-2x"></i>
+                            <a class="pull-left" href="#support">
+                                <i class="fa fa-eye fa-2x"></i>
                             </a>
                             <div class="media-body">
-                                <h3 class="media-heading">Video Resources</h3>
-                                Look for example implementation
+                                <h3 class="media-heading">Oceanographic Monitoring</h3>
+                                Temperature, Wind Speed, Rain Fall
                             </div>
                         </div>
                         <div class="media feature">
-                            <a class="pull-left" href="#">
-                                <i class="fa fa-compass fa-2x"></i>
+                            <a class="pull-left" href="#support">
+                                <i class="fa fa-location-arrow fa-2x"></i>
                             </a>
                             <div class="media-body">
-                                <h3 class="media-heading">Sample Projects</h3>
-                                Look for some examples 
+                                <h3 class="media-heading">Tracking System</h3>
+                                Bus, Taxi, Vehicle
                             </div>
                         </div>
                         <div class="media feature">
-                            <a class="pull-left" href="#">
-                                <i class="fa fa-picture-o fa-2x"></i>
+                            <a class="pull-left" href="#support">
+                                <i class="fa fa-power-off fa-2x"></i>
                             </a>
                             <div class="media-body">
-                                <h3 class="media-heading">Our Gallary</h3>
-                                Look for our events and projects
+                                <h3 class="media-heading">Remote Controls</h3>
+                                Light, Door, A/C, Fan
                             </div>
                         </div>
                         <div class="media active feature">
-                            <a class="pull-left" href="#">
+                            <a class="pull-left" href="#support">
                                 <i class="fa fa-plus fa-2x"></i>
                             </a>
                             <div class="media-body">
                                 <h3 class="media-heading">And much more!</h3>
-                                More and More updates are on the way 
+                                With respect to Your Custom Needs.
                             </div>
                         </div>
                     </div>
@@ -375,10 +389,10 @@
             </div>
         </section>
 
-        <section id="reviews">
+       <!-- <section id="reviews">
             <div class="container">
                 <div class="section-heading inverse scrollpoint sp-effect3">
-                    <h1>Reviews</h1>
+                    <h1>Customers</h1>
                     <div class="divider"></div>
                     <p>Read What's The People Are Saying About Us</p>
                 </div>
@@ -461,22 +475,32 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
 
         
 
-        <section id="demo">
+        <section id="product">
             <div class="container">
-                <div class="section-heading scrollpoint sp-effect3">
-                    <h1>Demo</h1>
+                <div class="section-heading scrollpoint sp-effect3" style="margin: 60px 0px 0px;">
+                    <h1>Products</h1>
                     <div class="divider"></div>
-                    <p>Take a closer look in more detail</p>
+                    <!--<p>Take a closer look in more detail</p>-->
                 </div>
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 scrollpoint sp-effect2">
-                        <div class="video-container" >
-                            <iframe src="http://player.vimeo.com/video/128769526"></iframe>
-                        </div>
+
+                <div class="col-sm-5">
+                    <div class="about-item scrollpoint sp-effect2">
+                        <img src="img/dia.jpg" class="img-responsive scrollpoint sp-effect5" style="height: 283px;">
+                        <h3>Digital Irigation Automation</h3>
+                        <p>Digital irrigation Automation. Applying M2M concept to automate irrigation system with intelligent mode.</p>
+                        <a href="dia.html">Read more</a>
+                    </div>
+                </div>
+                <div class="col-sm-5 col-sm-offset-2" >
+                    <div class="about-item scrollpoint sp-effect5">
+                        <img src="img/tbox.png" class="img-responsive scrollpoint sp-effect5 thumbnail" alt="">
+                        <h3>Enterprise Monitoring System</h3>
+                        <p>Remote monitoring Temperature,Humidity,Location etc. Control those via IoT technologies </p>
+                        <a href="t-box.html"> Read more</a>
                     </div>
                 </div>
             </div>
@@ -484,9 +508,9 @@
         <section id="support" class="doublediagonal">
             <div class="container">
                 <div class="section-heading scrollpoint sp-effect3">
-                    <h1>Login </h1>
+                    <h1>Contact Us</h1>
                     <div class="divider"></div>
-                    <p>To configuration and for more info and support, Contact Us!</p>
+                    <p>To configuration and for more info and support!</p>
                 </div>
                 <div class="row">
                     <div class="col-md-12">
